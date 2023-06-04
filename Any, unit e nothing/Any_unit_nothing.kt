@@ -13,7 +13,8 @@ fun validacao(valor: String ): Nothing{
 }
 
 fun main(){
-    valor(false)
-    valores()
-    validacao("Carrim")
+
+    println("Chapolim colorado")
+    println("Boraaaaaaaaa Git!!")
 }
+
